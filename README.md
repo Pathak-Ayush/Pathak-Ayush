@@ -11,11 +11,11 @@
 
 - 📝 I write articles on [Hashnode](Hashnode)
 
-- 💬 Wanna Connect? **Let's catch up**
+- 💬 Wanna Connect?  **Let's catch up**
 
 - 📫 How to reach me **ayushpathak151103@gmail.com**
 
-- ⚡ Fun fact **If it's working... Don't touch the code.**
+- ⚡ **If it's working... Don't touch the code.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
