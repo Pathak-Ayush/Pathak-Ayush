@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayush Pathak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Front-end Projects**
+- 🔭 I’m currently working on **Front-end Projects.**
 
-- 🌱 I’m currently learning **JS & it's frameworks and DevOps**
+- 🌱 I’m currently learning **JS & it's frameworks.**
 
-- 👯 I’m looking to **be a part of a tech community**
+- 👯 Looking forward to **be a part of a tech community**
 
 - 🤝 I’m actively looking to contribute in **Open Source**
 
