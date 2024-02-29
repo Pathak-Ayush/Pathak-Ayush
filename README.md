@@ -3,17 +3,17 @@
 
 - 🔭 I’m currently working on **Front-end Projects.**
 
-- 🌱 I’m currently learning **JS & it's frameworks.**
+- 🌱 Currently learning **JavaScript & it's frameworks.**
 
 - 👯 Looking forward to **be a part of a tech community**
 
-- 🤝 I’m actively looking to contribute in **Open Source**
+- 🤝 I’m actively looking to contribute to **Open Source**
 
 - 📝 I write articles on [Hashnode](Hashnode)
 
 - 💬 Wanna Connect?  **Let's catch up**
 
-- 📫 How to reach me **ayushpathak151103@gmail.com**
+- 📫 How to reach me **ayushpathak11techs@gmail.com**
 
 - ⚡ **If it's working... Don't touch the code.**
 
