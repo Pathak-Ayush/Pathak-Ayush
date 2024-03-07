@@ -7,7 +7,7 @@
 
 - 👯 Looking forward to **be a part of a tech community**
 
-- 📝 I write articles on [Hashnode](aayushpathak.hashnode.dev)
+- 📝 I write articles on <a href = "aayushpathak.hashnode.dev">Hashnode</a> 
 
 - 💬 Wanna Connect?  **Let's catch up**
 
