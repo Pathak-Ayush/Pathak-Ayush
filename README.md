@@ -9,7 +9,7 @@
 
 - 🤝 I’m actively looking to contribute to **Open Source**
 
-- 📝 I write articles on [Hashnode](Hashnode)
+- 📝 I write articles on [Hashnode](aayushpathak.hashnode.dev)
 
 - 💬 Wanna Connect?  **Let's catch up**
 
