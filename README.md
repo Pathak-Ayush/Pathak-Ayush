@@ -7,13 +7,11 @@
 
 - 👯 Looking forward to **be a part of a tech community**
 
-- 🤝 I’m actively looking to contribute to **Open Source**
-
 - 📝 I write articles on [Hashnode](aayushpathak.hashnode.dev)
 
 - 💬 Wanna Connect?  **Let's catch up**
 
-- 📫 How to reach me **ayushpathak11techs@gmail.com**
+- 📫 Reach me through my mail **ayushpathak11techs@gmail.com**
 
 - ⚡ **If it's working... Don't touch the code.**
 
