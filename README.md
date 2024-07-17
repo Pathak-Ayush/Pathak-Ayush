@@ -13,7 +13,7 @@
 
 - 📫 Reach me through my mail **ayushpathak11techs@gmail.com**
 
-- ⚡ **If it's working... Don't touch the code.**
+- ⚡ **I'll tell you a joke about UDP, but you might not get it...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
